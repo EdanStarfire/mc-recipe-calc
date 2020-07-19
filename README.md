@@ -1,6 +1,8 @@
 # mc-recipe-calc
 Calculator for minecraft recipes
 
+**Don't forget to populate a recipes file with your recipes or this will not work!**
+
 ## Usage
 ```bash
 mc-recipe-calc recipes.json targetitem targetcount
