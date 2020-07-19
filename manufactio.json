@@ -1,0 +1,20 @@
+{
+	"recipes": [
+        "advanced_circuit=1<copper_wire=2,basic_circuit=2,plastic_sheet=2"
+        ,"basic_circuit=1<copper_wire=3,iron_plate=1,redstone=1"
+        ,"copper_plate=1<copper_ingot=1"
+        ,"copper_wire=2<copper_plate=1"
+        ,"elite_circuit=1<advanced_circuit=2,basic_circuit=20,gold_wire=1,sulfuric_acid=150"
+        ,"high_tech_science_pack=3<solid_fuel=1,yellowcake=1,low_density_structure=1,elite_circuit=2"
+        ,"iron_plate=1<iron_ingot=1"
+        ,"low_density_structure=1<steel_plate=10,copper_plate=5,plastic_sheet=5"
+        ,"oak_chest=1<oak_planks=8"
+        ,"oak_planks=4<oak_log=1"
+        ,"pulverized_iron=1<iron_ingot=1"
+        ,"solid_fuel=1<lubricant=100"
+        ,"steel_ingot=1<iron_ingot=5"
+        ,"steel_plate=1<steel_ingot=1"
+        ,"sulfuric_acid=50<sulfur=5,pulverized_iron=1"
+        ,"yellowcake=1<uranium_ore=1,sulfuric_acid=100"
+	]
+}
